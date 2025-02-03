@@ -10,10 +10,7 @@ This project predicts the masses of chemicals (Mass C and D) based on the input 
 - [Dataset](#dataset)
 - [How It Works](#how-it-works)
 - [Installation Guide](#installation-guide)
-- [Results](#results)
-- [Images and GUI](#images-and-gui)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
